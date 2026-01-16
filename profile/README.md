@@ -78,6 +78,10 @@ Quality and clarity matter more than velocity.
 Technical decisions are documented in repository READMEs, ADRs, or RFCs when applicable.  
 Questions, proposals, and discussions should be opened as GitHub issues in the relevant repository.
 
+## Organization's Official Website
+
+[https://codician.com/
+](https://codician.com/)
 ---
 
 ## Codician
